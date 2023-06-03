@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+    color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+table{
+    text-align: center;
+}
+
+#mas{
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a{
+    color: antiquewhite;
+}
